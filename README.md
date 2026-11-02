@@ -8,7 +8,7 @@ This repository contains the official Python implementation of the research pape
 >
 > **Published in:** *Indian Journal of Computer Science and Engineering (IJCSE)*, Vol. 14, No. 5, Sep-Oct 2023.
 >
-> **DOI:** [10.21817/indjcse/2023/v1415/231405017](https://doi.org/10.21817/indjcse/2023/v1415/231405017)
+> **DOI:** [10.21817/indjcse/2023/v14i5/231405017](https://doi.org/10.21817/indjcse/2023/v14i5/231405017)
 
 ## Project Overview
 
@@ -51,7 +51,6 @@ $$
 ├── TSA_algorithm.py       # Improved Tree-Seed Algorithm (ITSA) optimization implementation
 ├── GA.py                  # Genetic Algorithm (GA) implementation
 ├── PSO.py                 # Particle Swarm Optimization (PSO) implementation
-├── INDJCSE23-14-05-017.pdf# Published paper PDF
 └── README.md              # Project documentation
 ```
 
@@ -109,6 +108,6 @@ If you use this codebase or research in your work, please cite the original arti
   number={5},
   pages={729--739},
   year={2023},
-  doi={10.21817/indjcse/2023/v1415/231405017}
+  doi={10.21817/indjcse/2023/v14i5/231405017}
 }
 ```
